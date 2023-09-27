@@ -1,22 +1,15 @@
-
 <h1 align="center">Hi 👋, I'm Shaikh Saif</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shaifshaikh" alt="shaifshaikh" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/shaikhsaif2206" target="blank"><img src="https://img.shields.io/twitter/follow/shaikhsaif2206?logo=twitter&style=for-the-badge" alt="shaikhsaif2206" /></a> </p>
 
 - 🌱 I’m currently learning **ReactJS, AWS**
 
-- 👨‍💻 All of my projects are available at [shaifshaikh.github.io](shaifshaikh.github.io)
+- 👨‍💻 All of my projects are available at **shaifshaikh.github.io**
 
-- 📝 I regularly write articles on [https://twitter.com/ShaikhSaif2206](https://twitter.com/ShaikhSaif2206)
-
-- 💬 Ask me about **react,gsap**
+- 💬 Ask me about **react,gsap,HTML,CSS**
 
 - 📫 How to reach me **shaikhsaif20010622@gmail.com**
+
+- 📝 I regularly write articles on **https://twitter.com/ShaikhSaif2206**
 
 - ⚡ Fun fact **Passionate Reader,Adventure Enthusiast,Culinary Explorer,Volunteer at Heart,Tech Geek,Coffee Connoisseur**
 
@@ -35,6 +28,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shaifshaikh&show_icons=true&locale=en&layout=compact" alt="shaifshaikh" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shaifshaikh&show_icons=true&locale=en" alt="shaifshaikh" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shaifshaikh&" alt="shaifshaikh" /></p>
-
